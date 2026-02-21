@@ -10,10 +10,6 @@ El sistema está diseñado para facilitar la gestión básica de datos mediante 
 Además, el programa fomenta la interacción constante con el usuario, simulando una situación real en la que se construye una lista de compras paso a paso. Esta dinámica ayuda a comprender cómo trabajar con datos ingresados en tiempo de ejecución y cómo manipular listas para almacenar, recorrer y mostrar información de manera organizada.
 
 #
-### 🎯 Objetivos del proyecto
-El objetivo principal del proyecto es reforzar el uso de **listas**, **bucles** y **entrada de datos por consola**, aplicando una lógica clara que permita almacenar y recorrer múltiples valores ingresados por el usuario.
-
-#
 ### 🧑‍💻 Lenguaje de programacion
 - Python
 
